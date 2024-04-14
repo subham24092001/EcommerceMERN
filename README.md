@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to our Shopping Website, a dynamic e-commerce platform created using React.js and Tailwind CSS. This website is designed to provide a seamless shopping experience, offering a responsive layout for users across various devices. Additionally, we have integrated login and signup functionality using Node.js, Express.js, JWT token authentication, MongoDB, and Mongoose for enhanced security and user management.
+Welcome to our Shopping Website, a dynamic e-commerce platform created using React.js,Node Js, Express Js, Mongodb , Mongoose and Tailwind CSS. This website is designed to provide a seamless shopping experience, offering a responsive layout for users across various devices. Additionally, we have integrated login and signup functionality using Node.js, Express.js, JWT token authentication, MongoDB, and Mongoose for enhanced security and user management.
 
 ## Main Features
 
